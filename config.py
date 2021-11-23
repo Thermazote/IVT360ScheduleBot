@@ -1,4 +1,4 @@
-TOKEN = '1994491516:AAFW-bYws7JkmJx1CzOfDzA7YvuwdIkT9JA'
+TOKEN = '1994491516:AAFW-bYws7JkmJx1CzOfDzA7YvuwdIkT9JA' # already updated :D
 AUTHOR = 'https://github.com/thermazote'
 BOT_LINK = 'https://t.me/VSTUScheduleBot'
 
